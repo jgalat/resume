@@ -1,0 +1,58 @@
+#+OPTIONS: toc:nil H:5 ':t
+#+LATEX_CLASS_OPTIONS: [a4paper, 10pt]
+#+LATEX_HEADER: \usepackage{resume}
+
+#+TITLE: Jorge Andrés Galat
+
+* Personal Data
+#+ATTR_HTML: :frame void
+#+ATTR_LATEX: :environment tabular :align llll
+| <l>             |                              |                     |                                |
+| *Birthday*      | 26th of July, 1992           | *Email*             | [[mailto:galat.ja@gmail.com][galat.ja@gmail.com]]             |
+| *Birth place*   | Rosario, Santa Fe, Argentina | *Skype ID*          | jorge.galat                    |
+| *Nationalities* | Argentina                    | *Cell Phone number* | +54 341 359 5172               |
+| *GitHub*        | https://github.com/jgalat    | *LinkedIn*          | https://linkedin.com/in/jgalat |
+
+* Professional Experience
+** 08/2017 -- Current
+   *Scala developer*, /Bonzzu Inc/\\
+   Developments for a FinTech company using Scala with Akka, Play Framework and MongoDB.
+
+** 02/2017 -- 07/2017
+   *Intern*, /CIFASIS - CONICET/\\
+   Work on grade thesis. Developments in C/C++.
+
+** 02/2016 -- 03/2016
+   *Summer intern*, /Intel Software Argentina S.A./\\
+   Intern in summer internship program. Developments in Python and Bash scripting.
+
+** 2015 -- 2016
+   *Freshman tutor*, /FCEIA - UNR/\\
+   Tutor for new university's students.
+* Education
+** 2011 -- 2018
+   *Licentiate Degree in Computer Science*\\
+   /Facultad de Ciencias Exactas, Ingenieria y Agrimensura/ - /Universidad Nacional de Rosario/\\
+   97% Complete - GPA: 8.41/10.
+
+** 2005 -- 2010
+   *High School Graduate*\\
+   /Instituto Politécnico Superior/ - /Universidad Nacional de Rosario/
+* Computer Skills
+** *Languages*
+   Scala, C/C++, Haskell, Python, Erlang, ML, HTML, CSS, Javascript, SQL, Bash,
+   Latex, SciLab, Assembler
+
+** *Tools*
+   Git, Subversion, Valgrind, GDB
+
+** *Platforms*
+   Linux, Windows
+
+* Languages
+** *Spanish*
+   Native language
+** *English*
+   First Certificate in English (Grade B) \hfill /2011/
+** *Portuguese*
+   CELPE - Bras (Intermediário Avan\c{c}ado) \hfill /2015/
