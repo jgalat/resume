@@ -1,3 +1,7 @@
-*.pdf
-*.bbl
-*.tex
+*~
+*.swp
+\#*\#
+src/*.pdf
+src/*.bbl
+src/*.tex
+
