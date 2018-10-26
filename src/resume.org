@@ -29,15 +29,17 @@
 ** 2015 -- 2016
    *Freshman tutor*, /FCEIA - UNR/\\
    Tutor for new university's students.
+
 * Education
 ** 2011 -- 2018
    *Licentiate Degree in Computer Science*\\
    /Facultad de Ciencias Exactas, Ingenieria y Agrimensura/ - /Universidad Nacional de Rosario/\\
-   97% Complete - GPA: 8.41/10.
+   GPA: 8.45/10.
 
 ** 2005 -- 2010
    *High School Graduate*\\
    /Instituto Politécnico Superior/ - /Universidad Nacional de Rosario/
+
 * Computer Skills
 ** *Languages*
    Scala, C/C++, Haskell, Python, Erlang, ML, HTML, CSS, Javascript, SQL, Bash,
@@ -52,7 +54,9 @@
 * Languages
 ** *Spanish*
    Native language
+
 ** *English*
    First Certificate in English (Grade B) \hfill /2011/
+
 ** *Portuguese*
    CELPE - Bras (Intermediário Avan\c{c}ado) \hfill /2015/
