@@ -1,12 +1,16 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
   <head>
-    <meta charset="utf-8">
+    <meta charset="utf-8" />
     <title>Jorge Andrés Galat - Resume</title>
-    <script src="//cdnjs.cloudflare.com/ajax/libs/pdf.js/2.0.550/pdf.min.js" charset="utf-8"></script>
+    <script
+      src="//cdnjs.cloudflare.com/ajax/libs/pdf.js/2.0.550/pdf.min.js"
+      charset="utf-8"
+    ></script>
   </head>
   <style media="screen">
-    body, main {
+    body,
+    main {
       margin: 0;
       padding: 0;
       background-color: #e5e5e5;
@@ -17,7 +21,7 @@
 
     canvas {
       margin: 2rem;
-      box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+      box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
     }
   </style>
   <body>
@@ -34,37 +38,40 @@
 
       // Asynchronous download of PDF
       var loadingTask = pdfjsLib.getDocument(url);
-      loadingTask.promise.then(function(pdf) {
-      console.log('PDF loaded');
+      loadingTask.promise.then(
+        function(pdf) {
+          console.log('PDF loaded');
 
-      // Fetch the first page
-      var pageNumber = 1;
-      pdf.getPage(pageNumber).then(function(page) {
-        console.log('Page loaded');
+          // Fetch the first page
+          var pageNumber = 1;
+          pdf.getPage(pageNumber).then(function(page) {
+            console.log('Page loaded');
 
-        var scale = 1.5;
-        var viewport = page.getViewport(scale);
+            var scale = 1.5;
+            var viewport = page.getViewport(scale);
 
-        // Prepare canvas using PDF page dimensions
-        var canvas = document.getElementById('canvas');
-        var context = canvas.getContext('2d');
-        canvas.height = viewport.height;
-        canvas.width = viewport.width;
+            // Prepare canvas using PDF page dimensions
+            var canvas = document.getElementById('canvas');
+            var context = canvas.getContext('2d');
+            canvas.height = viewport.height;
+            canvas.width = viewport.width;
 
-        // Render PDF page into canvas context
-        var renderContext = {
-          canvasContext: context,
-          viewport: viewport
-        };
-        var renderTask = page.render(renderContext);
-        renderTask.then(function() {
-          console.log('Page rendered');
-        });
-      });
-      }, function(reason) {
-        // PDF loading error
-        console.error(reason);
-      });
+            // Render PDF page into canvas context
+            var renderContext = {
+              canvasContext: context,
+              viewport: viewport,
+            };
+            var renderTask = page.render(renderContext);
+            renderTask.then(function() {
+              console.log('Page rendered');
+            });
+          });
+        },
+        function(reason) {
+          // PDF loading error
+          console.error(reason);
+        },
+      );
     </script>
   </body>
 </html>

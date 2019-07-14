@@ -42,14 +42,14 @@
 
 * Computer Skills
 ** *Languages*
-   Scala, Haskell, HTML, CSS, JavaScript, Python, Erlang, SQL, Bash,
+   Scala, Haskell, JavaScript, HTML, CSS, Python, Erlang, SQL, Bash,
    Latex, C/C++, Assembler
 
 ** *Tools*
-   Git, Valgrind, GDB
+   Git, Docker
 
 ** *Platforms*
-   Linux, Windows
+   GNU/Linux, Windows
 
 * Languages
 ** *Spanish*
