@@ -15,16 +15,22 @@
 
 * Professional Experience
 ** 08/2017 -- Current
-   *Scala developer*, /Bonzzu Inc/\\
-   Developments for a fintech company using Scala with Akka, Play Framework and MongoDB.
+   *Software Engineer*, /Bonzzu Inc/\\
+   Fullstack developments for a fintech company.
+
+   Technologies: Scala, Akka, Play Framework, React, Backbone.js, MongoDB, Docker.
 
 ** 02/2017 -- 07/2017
    *Intern*, /CIFASIS - CONICET/\\
-   Work on grade thesis. Developments in C/C++.
+   Work on grade thesis.
+
+   Technologies: C, C++, Make.
 
 ** 02/2016 -- 03/2016
    *Summer intern*, /Intel Software Argentina S.A./\\
-   Intern in summer internship program. Developments in Python and Bash scripting.
+   Intern in summer internship program.
+
+   Technologies: Python, Bash.
 
 ** 2015 -- 2016
    *Freshman tutor*, /FCEIA - UNR/\\
@@ -43,7 +49,7 @@
 * Computer Skills
 ** *Languages*
    Scala, Haskell, JavaScript, HTML, CSS, Python, Erlang, SQL, Bash,
-   Latex, C/C++, Assembler
+   Latex, C, C++, Assembler
 
 ** *Tools*
    Git, Docker
