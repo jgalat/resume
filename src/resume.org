@@ -42,10 +42,6 @@
    /Facultad de Ciencias Exactas, Ingenieria y Agrimensura/ - /Universidad Nacional de Rosario/\\
    GPA: 8.45/10.
 
-** 2005 -- 2010
-   *High School Graduate*\\
-   /Instituto Politécnico Superior/ - /Universidad Nacional de Rosario/
-
 * Computer Skills
 ** *Languages*
    Scala, Haskell, JavaScript, HTML, CSS, Python, Erlang, SQL, Bash,
