@@ -10,7 +10,7 @@
 | <l>                |                              |                     |                                |
 | *Birthday*         | 26th of July, 1992           | *Email*             | [[mailto:galat.ja@gmail.com][galat.ja@gmail.com]]             |
 | *Current location* | Rosario, Santa Fe, Argentina | *Skype ID*          | jorge.galat                    |
-| *Nationalities*    | Argentinian, Italian         | *Cell Phone number* | +54 341 359 5172               |
+| *Nationalities*    | Argentinian, Italian         | *Cell Phone number* | +54 9 341 359 5172             |
 | *GitHub*           | https://github.com/jgalat    | *LinkedIn*          | https://linkedin.com/in/jgalat |
 
 * Professional Experience
