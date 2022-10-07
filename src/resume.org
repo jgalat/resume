@@ -7,34 +7,41 @@
 * Personal Data
 #+ATTR_HTML: :frame void
 #+ATTR_LATEX: :environment tabular :align llll
-| <l>                |                              |                     |                                |
-| *Birthday*         | 26th of July, 1992           | *Email*             | [[mailto:jrgglt@gmail.com][jrgglt@gmail.com]]               |
-| *Current location* | Rosario, Santa Fe, Argentina | *Skype ID*          | jorge.galat                    |
-| *Nationalities*    | Argentinian, Italian         | *Cell Phone number* | +54 9 341 359 5172             |
-| *GitHub*           | https://github.com/jgalat    | *LinkedIn*          | https://linkedin.com/in/jgalat |
+| <l>                |                              |              |                    |
+| *Birthday*         | 26th of July, 1992           | *Email*      | [[mailto:jrgglt@gmail.com][jrgglt@gmail.com]]   |
+| *Current location* | Rosario, Santa Fe, Argentina | *Mobile*     | +54 9 341 359 5172 |
+| *Nationalities*    | Argentinian, Italian         | *Website*    | https://jg.ar      |
 
 * Professional Experience
-** 08/2017 -- Current
-   *Software Engineer*, /Bonzzu Inc/\\
-   Fullstack developments for a fintech company.
+** 10/2020 -- Current
+   *Software Engineer*, /HomeVision/\\
+   Full-Stack software developments
 
-   Technologies: Scala, Akka, Play Framework, React, Backbone.js, MongoDB, Docker.
+   Technologies: Go, TypeScript, React, PostgreSQL, Redis, Docker, AWS.
+
+** 11/2021 -- 09/2022
+   *Software Engineer (part-time)*, /Let'sBit/\\
+   Full-Stack software developments
+
+   Technologies: Go, TypeScript, React, Next.js, Ionic, MySQL, Docker, Kubernetes.
+
+** 08/2017 -- 10/2020
+   *Software Engineer*, /Bonzzu Inc/\\
+   Worked as a remote contractor for a fintech company.
+
+   Technologies: Scala, Akka, React, Backbone.js, MongoDB, Docker.
 
 ** 02/2017 -- 07/2017
    *Intern*, /CIFASIS - CONICET/\\
    Work on grade thesis.
 
-   Technologies: C, C++, Make.
+   Technologies: C, C++, C#.
 
 ** 02/2016 -- 03/2016
    *Summer intern*, /Intel Software Argentina S.A./\\
    Intern in summer internship program.
 
    Technologies: Python, Bash.
-
-** 2015 -- 2016
-   *Freshman tutor*, /FCEIA - UNR/\\
-   Tutor for new university's students.
 
 * Education
 ** 2011 -- 2018
@@ -44,14 +51,11 @@
 
 * Computer Skills
 ** *Languages*
-   Scala, Haskell, JavaScript, HTML, CSS, Python, Erlang, SQL, Bash,
-   Latex, C, C++, Assembler
+   Go, TypeScript, Scala, Haskell, HTML, CSS, Rust, Python, Erlang, SQL, Bash,
+   Latex, C, C++
 
 ** *Tools*
    Git, Docker
-
-** *Platforms*
-   GNU/Linux, Windows
 
 * Languages
 ** *Spanish*
